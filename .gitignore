@@ -12,3 +12,9 @@ docs/
 
 # Dotenv file
 .env
+
+#Dotgas-snapshot file
+.gas-snapshot
+
+broadcast/
+lib/
